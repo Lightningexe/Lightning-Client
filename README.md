@@ -8,6 +8,9 @@ This modpack aims to provide ease of access to everyone hoping to improve fps bu
 
 You can add your own mods and build on this modpack. But be sure to be careful of the compatibility issues. I won't be able to help with such issues.
 
+Download it on Modrinth here: https://modrinth.com/modpack/1000$-fps-modpack
+
+
 <details>
 <summary>Included Optimization Mods</summary>
 <br>

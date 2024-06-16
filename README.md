@@ -1,4 +1,12 @@
-A friend offered me 1000$ if I could get him the best modpack for FPS and QOL features. And since he offered my 1000$, you best believe it's one of the best modapacks for fps. You can get much more fps on 1000$ FPS than vanilla without compromising visuals. This modpack will help you have a smoother, more enjoyable expierience.
+A friend offered me 1000$ if I could get him the best modpack for FPS and QOL features. And since he offered my 1000$, you best believe it's one of the best modapacks for fps. 
+
+### Simplicity + QOL features
+
+This modpack aims to provide ease of access to everyone hoping to improve fps but also have some QOL features. The modpack incorporates the best optimization mods available to achieve max performance. And since most players don't just use optimization mods, we added QOL mods. For example, there is a mod that [display the time you have potions for](https://modrinth.com/mod/statuseffecttimer), [what durability your armor is on](https://modrinth.com/mod/ukus-armor-hud), and a [screen shoting mod that make sharing screen shots easier](https://modrinth.com/mod/essential). By including both QOL mods AND optimization mods, the 1000$ FPS modpack is an all in one modpack that offers everything a player could need to enjoy Minecraft.
+
+### Adding your own mods
+
+You can add your own mods and build on this modpack. But be sure to be careful of the compatibility issues. I won't be able to help with such issues.
 
 <details>
 <summary>Included Optimization Mods</summary>
@@ -33,4 +41,4 @@ will do this soon.
 
 # Status
 
-Currently still in Alpha testing, join the discord to try it out
+Currently still in Alpha testing, join the discord to try it out.

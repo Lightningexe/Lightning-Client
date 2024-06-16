@@ -1,9 +1,0 @@
-&e{fps}&r{{max_fps, " / &6{max_fps}&r"}} FPS
-&3{ping}ms &rping
-&8Facing: &3{facing}
-
-
-
-
-==Section:BottomRight==
-Sprinting: &6{sprinting}

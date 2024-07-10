@@ -38,6 +38,3 @@ will do this soon. (lazy)
 
 </details>
 
-# Status
-
-Currently still in Alpha testing, join the discord to help out.

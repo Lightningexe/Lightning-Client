@@ -1,4 +1,4 @@
-A friend offered me 1000$ if I could get him the best modpack for FPS and QOL features. And since he offered my 1000$, you best believe it's one of the best modapacks for fps. 
+A client? Not rlly, just a modpack but Client sounds kewler
 
 ### Simplicity + QOL features
 
@@ -7,9 +7,6 @@ This modpack aims to provide ease of access to everyone hoping to improve fps bu
 ### Adding your own mods
 
 You can add your own mods and build on this modpack. But be sure to be careful of the compatibility issues. I won't be able to help with such issues.
-
-Download it on Modrinth here: https://modrinth.com/modpack/1000$-fps-modpack
-
 
 <details>
 <summary>Included Optimization Mods</summary>
@@ -31,17 +28,16 @@ Download it on Modrinth here: https://modrinth.com/modpack/1000$-fps-modpack
 - **[ThreadTweak](https://modrinth.com/mod/threadtweak)**: Lets you improve and tweak CPU Scheduling. Made by [getchoo](https://modrinth.com/user/getchoo).
 - **[BadOptimizations](https://modrinth.com/mod/badoptimizations)**: Implements micro-optimizations which help improve the performance of Minecraft. Made by [thosea](https://modrinth.com/user/thosea).
 - **[Noisium](https://modrinth.com/mod/noisium)**: Optimises world generation. Made by: [Steveplays](https://modrinth.com/user/Steveplays).
-- **[Video Tape](https://modrinth.com/mod/videotape)**: Fixes GPU-related memory leaks. Made by [Anthus](https://modrinth.com/user/Anthus).
 - **[Exordium](https://modrinth.com/mod/exordium)**: Renders the gui at lower fps. (can be configured) This allows your computer to focus more on the world rendering. Made by [tr7zw](https://modrinth.com/user/tr7zw).
 </details>
 <details>
 <summary>Included QOL Mods</summary>
 <br>
 
-will do this soon.
+will do this soon. (lazy)
 
 </details>
 
 # Status
 
-Currently still in Alpha testing, join the discord to try it out.
+Currently still in Alpha testing, join the discord to help out.
